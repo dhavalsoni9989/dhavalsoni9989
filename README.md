@@ -2,6 +2,9 @@
 
 **Full-Stack JavaScript Developer** · Ahmedabad, India
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalsoni9989)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhavalsoni9989@gmail.com)
+
 I build scalable web applications end to end, from REST/GraphQL APIs and microservices to modern Vue frontends. Lately I've been working with LLM integrations and AI-assisted development workflows.
 
 ### 🔭 What I'm working on
@@ -46,5 +49,5 @@ Collaborating on Node.js/Vue projects, microservice architecture and AI-powered 
 
 ### 📫 Reach me
 - GitHub: [@dhavalsoni9989](https://github.com/dhavalsoni9989)
-- LinkedIn: _add your link_
-- Email: _add your email_
+- LinkedIn: [linkedin.com/in/dhavalsoni9989](https://www.linkedin.com/in/dhavalsoni9989)
+- Email: [dhavalsoni9989@gmail.com](mailto:dhavalsoni9989@gmail.com)
